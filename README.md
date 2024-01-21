@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Quang</h1>
-- 🌱 I’m currently learning **Vuejs, Frontend development**
+<h3 align="center">A Passionate Backend Developer</h3>
+
+- 🌱 I’m currently learning **Vuejs & Frontend development as I'm thriving to be Fullstack**
+
+- 💬 Ask me about **Expressjs, Spring Boot or anything server related**
 
 - 📫 How to reach me **phvuquang@gmail.com**
 
