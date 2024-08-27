@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Quang</h1>
-<h3 align="center">A Passionate Backend Developer</h3>
+<h3 align="center">A Software Engineer</h3>
 
-- 🌱 I’m currently learning **Vuejs & Frontend development as I'm thriving to be Fullstack**
+- 🌱 I’m currently a Software Engineer my Tech Stack is: **TypeScript, Java and AWS**, I also work with **Vuejs**, and currently I'm learning **GoLang**
 
-- 💬 Ask me about **Expressjs, Spring Boot or anything server related**
+- 💬 Ask me about **Anything server related!**
 
 - 📫 How to reach me **phvuquang@gmail.com**
 
